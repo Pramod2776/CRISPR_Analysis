@@ -1,2 +1,2 @@
-# Crsipr_Analysis
+# CRISPR_Analysis
 CRISPR data analysis
