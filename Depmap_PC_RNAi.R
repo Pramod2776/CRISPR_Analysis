@@ -1,4 +1,4 @@
-setwd("~/Documents/Projects/PamelaLab/DepMap_Data")
+
 library(tidyverse)
 library(ggplot2)
 library(ggrepel)
